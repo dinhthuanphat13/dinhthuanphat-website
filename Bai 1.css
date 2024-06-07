@@ -1,0 +1,15 @@
+.form-group{
+    margin: 10px 3px;
+}
+.form-control{
+    display: block;
+    padding: 5px;
+    margin-top: 3px;
+    border: none;
+    box-shadow: 0 0 3px blue;
+    border-radius: 3px;
+    outline: none;
+}
+.form-control:focus{
+    box-shadow: 0 0 3px orangered;
+}
